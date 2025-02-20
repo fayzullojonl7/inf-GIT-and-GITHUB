@@ -1,8 +1,6 @@
 # inf-GIT-and-GITHUB
 Here's a breakdown of **Git** and **GitHub** to give you a clear understanding of both tools:
-
 ![inf-GIT-and-GITHUB](Download GitHub Logo, Git Hub Icon On White Background.jpg)
-
 ### **What is Git?**
 
 **Git** is a **distributed version control system** (VCS) used to track changes in source code during software development. Unlike centralized systems, Git stores a full history of all code changes locally on every developer's computer, which makes it robust and allows for working offline.
@@ -12,7 +10,7 @@ Here's a breakdown of **Git** and **GitHub** to give you a clear understanding o
 - **Branching and Merging:** Git allows you to create branches, which are independent lines of development, and then merge those branches back together when changes are ready to be combined.
 - **History:** Git records the history of every change, making it easy to revert to previous versions of your code if needed.
 - **Collaboration:** Multiple developers can work on the same project simultaneously without overwriting each other’s changes. Git allows for resolving conflicts when changes are made to the same parts of files.
-
+![inf-GIT-and-GITHUB](Git e GitHub_ Um Guia Básico Iniciantes.jpg)
 #### **Basic Git Commands:**
 - `git init`: Initializes a new Git repository.
 - `git clone <repo_url>`: Clones an existing Git repository.
