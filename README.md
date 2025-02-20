@@ -1,5 +1,5 @@
 # inf-GIT-and-GITHUB
----
+![tftar](https://github.com/fayzullojonl7/inf-GIT-and-GITHUB/blob/main/Download%20GitHub%20Logo,%20Git%20Hub%20Icon%20On%20White%20Background.jpg?raw=true)
 
 ### **Что такое Git?**
 
