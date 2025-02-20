@@ -1,7 +1,9 @@
 # inf-GIT-and-GITHUB
 Here's a breakdown of **Git** and **GitHub** to give you a clear understanding of both tools:
 
----
+![inf-GIT-and-GITHUB]{
+Download GitHub Logo, Git Hub Icon On White Background.jpg
+}
 
 ### **What is Git?**
 
