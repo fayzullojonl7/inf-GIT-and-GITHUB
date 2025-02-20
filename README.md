@@ -1,6 +1,6 @@
 # inf-GIT-and-GITHUB
 Here's a breakdown of **Git** and **GitHub** to give you a clear understanding of both tools:
-![inf-GIT-and-GITHUB](Download GitHub Logo, Git Hub Icon On White Background.jpg)
+![inf-GIT](Download GitHub Logo, Git Hub Icon On White Background.jpg)
 ### **What is Git?**
 
 **Git** is a **distributed version control system** (VCS) used to track changes in source code during software development. Unlike centralized systems, Git stores a full history of all code changes locally on every developer's computer, which makes it robust and allows for working offline.
